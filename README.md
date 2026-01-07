@@ -1,4 +1,4 @@
-# Kaggle-Project-House-Price-Prediction-
+# Kaggle-Project-House-Price-Prediction
 This is a Kaggle-style regression project predicting house sale prices.
 ## Dataset
 - Source: [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
